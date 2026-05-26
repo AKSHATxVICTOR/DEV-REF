@@ -61,6 +61,13 @@ export const DATA = {
         ["git tag -a v1.0.0 -m 'msg'", "Create annotated tag"],
         ["git push origin --tags", "Push all tags"],
       ],
+      "File Operations": [
+        ["git rm <file>", "Remove file from working tree and stage deletion"],
+        ["git rm --cached <file>", "Untrack file but keep it locally"],
+        ["git rm -r --cached <dir>", "Untrack directory but keep it locally"],
+        ["git mv <old> <new>", "Move or rename a tracked file"],
+        ["git reflog", "Show history of HEAD movements (lifesaver!)"],
+      ],
     },
   },
 
