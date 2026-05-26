@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="7" fill="#1a1e25"/>
+  <!-- > chevron -->
+  <polyline points="6,10 13,16 6,22" fill="none" stroke="#f05033" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- _ underscore -->
+  <line x1="15" y1="22" x2="26" y2="22" stroke="#f05033" stroke-width="2.8" stroke-linecap="round"/>
+</svg>
